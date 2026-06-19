@@ -1,7 +1,10 @@
 
 # Clothing E-Commerce Website with Admin Panel
-A full-stack MERN (MongoDB, Express.js, React.js, Node.js) based Clothing E-Commerce application with a secure Admin Panel for managing products, users, and orders.
 
+<img width="1920" height="1200" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/bf5bad03-2d2b-491c-805e-43812eb5f753" />
+
+
+A full-stack MERN (MongoDB, Express.js, React.js, Node.js) based Clothing E-Commerce application with a secure Admin Panel for managing products, users, and orders.
 ### User Features
 - User Registration & Login
 - JWT Authentication
@@ -76,10 +79,6 @@ npm run dev
 
 
 ##  Screenshots
-
-### Home Page
-
-<img width="1920" height="1200" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/bf5bad03-2d2b-491c-805e-43812eb5f753" />
 
 ### Products Page
 
